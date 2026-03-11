@@ -119,7 +119,7 @@ Follow these steps to run the project locally.
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/customer-support-zone.git
+git clone https://github.com/parety308/customer-support-zone.git
 ```
 
 ### 2️⃣ Navigate to the project folder
