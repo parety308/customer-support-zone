@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1001,
+    "title": "Login page not loading",
+    "description": "User reports that the login page takes too long to load on mobile devices.",
+    "customer": "John Doe",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2025-10-01"
+  },
+  {
+    "id": 1002,
+    "title": "Email verification issue",
+    "description": "Verification emails are not being received by users after registration.",
+    "customer": "Emily Carter",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Open",
+    "createdAt": "2025-10-02"
+  },
+  {
+    "id": 1003,
+    "title": "UI glitch on dashboard",
+    "description": "Charts on the dashboard overlap on smaller screen sizes.",
+    "customer": "Michael Brown",
+    "priority": "LOW PRIORITY",
+    "status": "Open",
+    "createdAt": "2025-09-29"
+  },
+  {
+    "id": 1004,
+    "title": "Payment gateway timeout",
+    "description": "Multiple customers are facing payment failures due to gateway timeout.",
+    "customer": "Sophia Green",
+    "priority": "HIGH PRIORITY",
+    "status": "In Progress",
+    "createdAt": "2025-10-05"
+  },
+  {
+    "id": 1005,
+    "title": "Unable to reset password",
+    "description": "Password reset link returns an invalid token error.",
+    "customer": "David Johnson",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2025-10-04"
+  },
+  {
+    "id": 1006,
+    "title": "Slow database queries",
+    "description": "Admin panel takes too long to fetch user data due to slow SQL queries.",
+    "customer": "Olivia Wilson",
+    "priority": "LOW PRIORITY",
+    "status": "Open",
+    "createdAt": "2025-09-28"
+  },
+  {
+    "id": 1007,
+    "title": "Profile picture upload error",
+    "description": "Users are unable to upload profile pictures larger than 2MB.",
+    "customer": "Daniel Kim",
+    "priority": "LOW PRIORITY",
+    "status": "In Progress",
+    "createdAt": "2025-10-03"
+  },
+  {
+    "id": 1008,
+    "title": "Notification delay",
+    "description": "Push notifications are delayed by up to 15 minutes after an event.",
+    "customer": "Ava Martinez",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Open",
+    "createdAt": "2025-10-06"
+  },
+  {
+    "id": 1009,
+    "title": "Broken link in footer",
+    "description": "The 'Contact Us' link in the website footer returns a 404 error.",
+    "customer": "James Anderson",
+    "priority": "LOW PRIORITY",
+    "status": "Open",
+    "createdAt": "2025-09-25"
+  },
+  {
+    "id": 1010,
+    "title": "Search function not returning results",
+    "description": "Search results are empty even for valid queries.",
+    "customer": "Isabella Lee",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2025-10-07"
+  },
+  {
+    "id": 1011,
+    "title": "Session timeout too short",
+    "description": "User sessions are expiring after only 2 minutes of inactivity.",
+    "customer": "Liam Davis",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Open",
+    "createdAt": "2025-10-01"
+  },
+  {
+    "id": 1012,
+    "title": "Dark mode not saving preference",
+    "description": "User theme preference resets after page refresh.",
+    "customer": "Charlotte Taylor",
+    "priority": "LOW PRIORITY",
+    "status": "In Progress",
+    "createdAt": "2025-10-02"
+  }
+]
